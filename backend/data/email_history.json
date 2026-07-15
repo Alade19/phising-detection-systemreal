@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Welcome to the newsletter",
+    "preview": "Welcome to the newsletter",
+    "result": "legitimate",
+    "confidence": 62.8,
+    "timestamp": "2026-07-14T05:54:13.900126+00:00"
+  },
+  {
+    "subject": "Your package could not be delivered",
+    "preview": "Your package could not be delivered",
+    "result": "phishing",
+    "confidence": 55.6,
+    "timestamp": "2026-07-14T05:53:43.453275+00:00"
+  },
+  {
+    "subject": "",
+    "preview": "Invoice #2291 for June services",
+    "result": "phishing",
+    "confidence": 52.1,
+    "timestamp": "2026-07-14T05:53:22.714540+00:00"
+  },
+  {
+    "subject": "Invoice #2291 for June services",
+    "preview": "Invoice #2291 for June services",
+    "result": "phishing",
+    "confidence": 52.1,
+    "timestamp": "2026-07-14T05:53:18.189541+00:00"
+  },
+  {
+    "subject": "Security alert: unusual sign-in attempt",
+    "preview": "Security alert: unusual sign-in attempt",
+    "result": "phishing",
+    "confidence": 58.9,
+    "timestamp": "2026-07-14T05:53:08.459695+00:00"
+  },
+  {
+    "subject": "Meeting reminder: Team sync at 3pm",
+    "preview": "Meeting reminder: Team sync at 3pm",
+    "result": "legitimate",
+    "confidence": 56.1,
+    "timestamp": "2026-07-14T05:52:54.251795+00:00"
+  },
+  {
+    "subject": "Action required: Verify your billing information",
+    "preview": "Action required: Verify your billing information",
+    "result": "phishing",
+    "confidence": 56.0,
+    "timestamp": "2026-07-14T05:52:41.449492+00:00"
+  },
+  {
+    "subject": "Your order has shipped",
+    "preview": "Your order has shipped",
+    "result": "phishing",
+    "confidence": 76.5,
+    "timestamp": "2026-07-14T05:52:28.500141+00:00"
+  },
+  {
+    "subject": "You've won a $1000 gift card!",
+    "preview": "You've won a $1000 gift card!",
+    "result": "phishing",
+    "confidence": 64.0,
+    "timestamp": "2026-07-14T05:52:17.511947+00:00"
+  },
+  {
+    "subject": "Re: Project timeline update",
+    "preview": "Re: Project timeline update",
+    "result": "legitimate",
+    "confidence": 70.7,
+    "timestamp": "2026-07-14T05:52:01.363407+00:00"
+  }
+]

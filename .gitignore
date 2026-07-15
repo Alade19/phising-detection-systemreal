@@ -1,0 +1,19 @@
+# Python
+backend/__pycache__/
+backend/model/__pycache__/
+backend/venv/
+backend/.venv/
+*.pyc
+
+# Runtime data (regenerated automatically)
+backend/data/history.json
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+frontend/npm-debug.log*
+
+# OS
+.DS_Store
